@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="titulo">Título</string>
+    <string name="subtitulo">Subtítulo</string>
+</resources>

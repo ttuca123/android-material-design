@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextFields</string>
+
+    <string name="login">Login</string>
+
+    <string name="error_email">Por Favor, preencha seu email</string>
+
+</resources>

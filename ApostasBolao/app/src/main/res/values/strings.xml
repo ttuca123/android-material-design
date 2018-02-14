@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bolão JL</string>
+    <string name="title_activity_act_main">BOLAO JL</string>
+
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="navigation_drawer_close">Fechar</string>
+
+    <string name="action_settings">Configurações</string>
+
+    <string name="action_sobre">Sobre</string>
+    <string name="home">HOME</string>
+    <string name="palpites">Apostar</string>
+    <string name="regras">Regras</string>
+    <string name="conta_deposito">Conta / Depósito</string>
+    <string name="fale_conosco">Fale Conosco</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

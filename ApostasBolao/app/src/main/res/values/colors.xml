@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796b</color>
+    <color name="colorAccent">#B0BEC5</color>
+    <color name="colorLinha">#FFFFFF</color>
+    <color name="separadorLinha">#009688</color>
+    <color name="gramado">#4caf50</color>
+    <color name="cabecalho_rodape">#005500</color>
+    <color name="color_amarelo">#e69310</color>
+
+    <color name="botao_normal">#b9f6ca</color>
+    <color name="botao_selecionado">#9ccc65</color>
+
+</resources>

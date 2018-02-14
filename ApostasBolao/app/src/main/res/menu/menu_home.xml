@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_fav"
+        android:icon="@android:drawable/star_big_on"
+        app:showAsAction="always"
+        android:title="RANKING" />
+
+    <item android:id="@+id/menu_ultimos_jogos"
+        android:title="PREMIAÇÃO"
+        android:icon="@android:drawable/btn_radio"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_track"
+        android:icon="@android:drawable/btn_radio"
+        android:title="ÚLTIMOS GANHADORES"
+        app:showAsAction="always"/>
+
+
+</menu>

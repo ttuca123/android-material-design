@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/nav_apostas"
+            android:icon="@android:drawable/ic_secure"
+            android:title="@string/palpites" />
+        <item
+            android:id="@+id/nav_regras"
+            android:icon="@android:drawable/ic_dialog_info"
+
+            android:title="@string/regras" />
+        <item
+            android:id="@+id/nav_contas"
+            android:icon="@android:drawable/sym_contact_card"
+            android:title="@string/conta_deposito" />
+        <item
+            android:id="@+id/nav_fale_conosco"
+            android:icon="@android:drawable/stat_sys_phone_call"
+            android:title="@string/fale_conosco" />
+    </group>
+
+
+
+</menu>
